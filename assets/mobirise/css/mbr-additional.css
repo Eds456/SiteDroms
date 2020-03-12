@@ -1476,6 +1476,28 @@ section.lazy-placeholder:after {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rT36lLuJo6 {
+  background: #0f7699;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #cc2952, #0f7699);
+}
+.cid-rT36lLuJo6 .image-block {
+  margin: auto;
+}
+.cid-rT36lLuJo6 figcaption {
+  position: relative;
+}
+.cid-rT36lLuJo6 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rT36lLuJo6 .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #ffffff;
